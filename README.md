@@ -1,6 +1,6 @@
 # StreamAll - Plataforma de Entretenimento Unificada
 
-Este repositório contém o projeto de banco de dados da plataforma **StreamAll**, desenvolvido como requisito para a disciplina de Banco de Dados Relacional.
+Este repositório contém o projeto de banco de dados da plataforma **StreamAll**, desenvolvido como requisito para a disciplina de Banco de Dados Relacional 2º semestre.
 
 ## 📌 Sobre o Projeto
 A StreamAll é uma plataforma que unifica o consumo de músicas, filmes e séries. O diferencial do sistema é permitir a criação de playlists híbridas, contendo diferentes tipos de mídia em uma única sequência.
